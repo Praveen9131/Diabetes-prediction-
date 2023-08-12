@@ -74,4 +74,5 @@ Include Parameters: Include health parameters in the request payload, similar to
   "DiabetesPedigreeFunction": 0.627,
   "Age": 50
 }
-Receive a Prediction: The API will respond with a prediction result.
+
+## Receive a Prediction: The API will respond with a prediction result.
